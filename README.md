@@ -1,1 +1,1 @@
-sample 
+branch merged successfully
