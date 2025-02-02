@@ -1,1 +1,1 @@
-example branch
+branch merged successfully
